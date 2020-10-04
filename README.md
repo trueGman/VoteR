@@ -1,2 +1,2 @@
 # VoteR
-laghnanea taeh
+VandyHacks hackathon project made by the MiDAS Fall 2020 cohort.
